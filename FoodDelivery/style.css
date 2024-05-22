@@ -377,5 +377,56 @@ font-weight: 400;
 
 }
 
+.footer{
+    background-color: #000;
+    padding-top: 101px;
+    padding-bottom: 101px;
+    padding-left: 101px;
+    padding-right: 93px;
+}
+
+.footer-section{
+    display: flex;
+   justify-content: space-around;
+}
+
+.footer-logo p {
+font-size: 42px;
+font-weight: 900;
+}
+
+.app{
+    display: flex;
+    gap: 33px;
+}
+
+.footer-text{
+    display: flex;
+    gap: 144px;
+}
+
+.footer-one h4{
+    color: #FFEFEC;
+}
+
+.footer-one p {
+color: #B5B2B2;
+font-size: 17.756px;
+font-style: normal;
+font-weight: 400;
+}
+
+.copyRight{
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    color: #B5B2B2;
+}
+.copy{
+    display: flex;
+    gap: 20px;
+}
+
+
 
 
