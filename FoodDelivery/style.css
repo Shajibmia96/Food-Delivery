@@ -237,6 +237,7 @@ font-weight: 600;
 .foodItems{
     display: flex;
     justify-content: center;
+    margin-bottom: 195px;
 }
 
 .foodText{
@@ -245,6 +246,51 @@ font-size: 23px;
 font-weight: 400;
 line-height: 34px; 
 width: 545px;
+}
+
+
+/* order section */
+
+.order-section h2 {
+    color: #2E2C49;
+    text-align: center;  
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 46px; /* 100% */
+    letter-spacing: 0.23px;
+    margin-bottom: 60px;
+}
+.order-product{
+    display: flex;
+    gap: 125px;
+    justify-content: center;
+}
+ .order-product-one {
+    background-color: #FAFAFA;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 168px;
+    height: 232px;
+    border-radius: 28px;
+ }
+.order-product-one p{
+    text-align: center;
+    font-size: 53.159px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 53.159px;
+    padding: 15px; 
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: #fff;
+    border-radius: 30px;
+} 
+.order-product-one h1 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 24px; /* 100% */
+    letter-spacing: -0.24px;
 }
 
 
