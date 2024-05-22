@@ -264,6 +264,7 @@ width: 545px;
     display: flex;
     gap: 125px;
     justify-content: center;
+    margin-bottom: 195px;
 }
  .order-product-one {
     background-color: #FAFAFA;
@@ -293,6 +294,53 @@ width: 545px;
     letter-spacing: -0.24px;
 }
 
+
+/* clients-feetBack */
+
+.clients-feetBack h1{
+    color: #111;
+    text-align: center;
+    font-size: 44px;
+    font-weight: 700;
+    margin-bottom: 18px;
+}
+.clients-feetBack-text{
+
+color: #000;
+text-align: center;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+
+}
+
+.clients-feetBack h3 {
+    text-align: center;
+    padding-top: 55px;
+    padding-bottom: 42px;
+}
+
+.customer-details h4 { color: #111;
+text-align: center;
+font-size: 18px;
+font-weight: 600;
+letter-spacing: -0.18px;
+margin-bottom: 1px;
+
+}
+.customer-details p {
+color: #616161;
+text-align: center;
+font-size: 14px;
+font-weight: 400;
+letter-spacing: -0.14px;
+}
+
+.sedeBar{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 167px;
+}
 
 
 
